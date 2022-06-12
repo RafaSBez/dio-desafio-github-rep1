@@ -1,0 +1,6 @@
+git clone https://github.com/RafaSBez/dio-desafio-github-rep1 //Clona repositório para o PC
+cd dio-desafio-github-rep1/ //Entra dentro do repositório
+git add . //Lista os arquivos novos para que seja feito o upload para o repositório
+git commit -m "Inclusção das anotações do curso do Git/GitHub" //Cria o commit local dos arquivos
+git push origin main //Faz o upload dos arquivos locais para nuvem do GitHub
+
